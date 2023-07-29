@@ -1,0 +1,131 @@
+.myBG {
+    height: 100vh;
+    background: url("../aset/img/Gaming PCs_Amazon_com_Appstore for Android.jpeg");
+    background-size: cover;
+}
+
+.intro {
+    height: 500px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+
+.tittle {
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 1;
+    text-shadow: 2px 2px black;
+    letter-spacing: 3px;
+}
+
+.tittle2 {
+    height: 200px;
+    font-size: 50px;
+    font-weight: 800;
+    line-height: 1;
+    letter-spacing: 4px;
+    color: rgb(255, 255, 255);
+}
+
+.tittle3 {
+    height: 200px;
+    font-size: 50px;
+    font-weight: 800;
+    line-height: 1;
+    letter-spacing: 4px;
+    color: rgb(255, 255, 255);
+}
+
+.tittle4 {
+    height: 200px;
+    font-size: 50px;
+    font-weight: 800;
+    line-height: 1;
+    letter-spacing: 4px;
+    color: rgb(255, 255, 255);
+}
+
+.box {
+    background-color: rgb(80, 80, 80);
+    display: flex;
+    padding: 10px;
+    width: 800px;
+    height: 400px;
+}
+
+.myBG2 {
+    height: 100vh;
+    background-color: grey;
+    background-size: cover;
+}
+
+.about {
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 1;
+    height: 700px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: fixed;
+    word-spacing: 7px;
+}
+
+.imgbox {
+    display: flex;
+    height: 400px;
+    width: 400px;
+    transform: translate(-20%);
+}
+
+.textbox {
+    display: flex;
+    justify-content: flex-end;
+    width: 550px;
+    height: 400px;
+}
+
+.card {
+    top: 20px;
+    padding: 50px;
+    margin: 20px;
+    border-radius: 5px;
+}
+
+.myBG3 {
+    height: 100vh;
+    background-color: grey;
+    background-size: cover;
+}
+
+.myBG4 {
+    height: 100vh;
+    background-color: grey;
+    background-size: cover;
+}
+
+.container {
+    margin-top: 50px;
+  }
+  
+.col-md-4 {
+    text-align: center;
+    padding: 20px;
+  }
+
+  .kontak {
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 1;
+    height: 600px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+  }
